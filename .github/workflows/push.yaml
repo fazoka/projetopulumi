@@ -2,7 +2,7 @@ name: Deploy resources
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   up:
     name: Update
