@@ -1,0 +1,8 @@
+{
+    "name": "projectpulumi",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "twilio-pulumi-provider": "^0.0.13"
+    }
+}
